@@ -1,0 +1,22 @@
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700); 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800); 
+
+/* ##### GENERAL  ##### */
+*{
+	outline:0;padding: 0;margin:0;
+	-webkit-box-sizing:border-box;
+	        box-sizing:border-box;
+}
+
+iframe {
+	position: absolute;
+	margin-left: 660px;
+	margin-top: 0px;
+}
+
+.form-check {
+	position: absolute;
+	margin-top: 37px;
+}
+
