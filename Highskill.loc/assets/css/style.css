@@ -8,3 +8,15 @@
 	-webkit-box-sizing:border-box;
 	        box-sizing:border-box;
 }
+
+iframe {
+	position: absolute;
+	margin-left: 660px;
+	margin-top: 0px;
+}
+
+.form-check {
+	position: absolute;
+	margin-top: 37px;
+}
+
